@@ -1,0 +1,44 @@
+{
+  "name": "ts_cookbook_chapter_01",
+  "version": "1.0.0",
+  "description": "TypeScript Cookbook code samples",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushwahashiv/TypescriptCookbook"
+  },
+  "keywords": [
+    "typescript",
+    "cookbook",
+    "learning",
+    "code",
+    "examples"
+  ],
+  "author": "Shiv S. Kushwaha <kushwaha.shiv@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/q": "1.0.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.8.8",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-tslint": "^8.1.0",
+    "gulp-typedoc": "^2.0.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "rimraf": "^2.6.1",
+    "run-sequence": "^1.2.2",
+    "tsify": "^3.0.1",
+    "tslint": "^5.3.2",
+    "typedoc": "^0.7.1",
+    "typescript": "^2.3.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "q": "^1.5.0"
+  }
+}
