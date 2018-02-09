@@ -15,7 +15,7 @@ and the application's modules.
 Open a console and clone the following Git repository:
 
 ```
-$ git clone https://github.com/kushwahashiv/TypescriptCookbook.git
+$ git clone https://github.com/kushwahashiv/Typescript2xCookbook.git
 ```
 
 Navigate to the `chapter_01` folder:
