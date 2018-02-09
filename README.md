@@ -166,14 +166,14 @@ Closures
 
 # About the author
 
-Shiv Shankar Kushwaha is a software professional with more than 14 years of experience. He currently works in the capacity of an architect and a mentor in a startup, Wizni, Inc. in SaaS and MBaaS domain.
+<b>Shiv Shankar Kushwaha</b> is a software professional with more than 14 years of experience. He currently works in the capacity of an architect and a mentor in a startup, Wizni, Inc. in SaaS and MBaaS domain.
 
-He earned a Master of Science degree in Computer Science from G. B. Pant University of Technology, Pant Nagar, India in year 2003.
+He earned a Master of Science degree in Computer Science from G.B. Pant University of Agriculture & Technology, Pant Nagar, India in year 2003.
 
-He started his carrier as a trainee and then as a researcher at DRDO. He also worked for various other companies Johnson Controls Inc., SAXO Bank, Emerson Electric Co. and Patni Computer Systems Pvt. Ltd.
+He started his carrier as a trainee and then as a researcher at DRDO. He also worked for various other companies i.e. Johnson Controls Inc., SAXO Bank, Emerson Electric Co. and Patni Computer Systems Pvt. Ltd.
 
-Before getting into web and mobile development he spent more than 12 years of his carrier in system programming writing code in C++ in diversified domains such as image processing, education, BFSI, Industrial automation. ‘
+Before getting into web and mobile development he spent more than 12 years of his carrier in system programming writing code in C++ in diversified domains such as image processing, education, BFSI and Industrial automation etc.
 
-He has a passion for learning about tech innovations and trending technologies. Shiv occasionally puts his thoughts and musings on his blog, http://shivkushwaha.com/, or through his Twitter account, @kushwahashiv.
+He has a passion for learning about tech innovations and trending technologies. Shiv occasionally puts his thoughts and musings on his blog, [https://www.shivkushwaha.com](https://www.shivkushwaha.com), or through his Twitter account, [@kushwahashiv](https://twitter.com/kushwahashiv).
 
-If you wish to contact him, you can do so at kushwaha.shiv@oulook.com.
+If you wish to contact him, you can do so at [https://www.shivkushwaha.com](https://www.shivkushwaha.com).
