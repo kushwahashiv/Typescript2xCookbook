@@ -1,0 +1,38 @@
+{
+  "name": "chapter_03",
+  "version": "1.0.0",
+  "description": "TypeScript Cookbook chapter 3 source files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushwahashiv/Typescript2xCookbook.git"
+  },
+  "keywords": [
+    "typescript",
+    "cookbook",
+    "learning",
+    "code",
+    "examples"
+  ],
+  "author": "Shiv S. Kushwaha <kushwaha.shiv@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kushwahashiv/TypescriptCookbook/issues"
+  },
+  "homepage": "https://github.com/kushwahashiv/TypescriptCookbook#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.46",
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.1.7",
+    "gulp-webserver": "^0.9.1",
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
