@@ -72,7 +72,15 @@ const files = [
   '01_iife.ts',
   '02_closures.ts',
   '03_arrow_functions_and_polymorphic_this.ts',
-  '04_access_modifiers.ts'
+  '04_access_modifiers.ts',
+  '05_local_types.ts',
+  'chapter_03/src/06_abstract_classes.ts',
+  '07_mixins.ts',
+  '08_intersection_types.ts',
+  '09_class_expression_vs_delcaration.ts',
+  '10_generic_constraints.ts',
+  '11_tagged_functions_and_templates.ts',
+  '12_destructuring.ts'
 ];
 
 const $tsCode = $('#ts_code');
