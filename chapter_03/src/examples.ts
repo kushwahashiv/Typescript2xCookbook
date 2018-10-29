@@ -71,7 +71,8 @@ class ExamplesNavigator {
 const files = [
   '01_iife.ts',
   '02_closures.ts',
-  '03_arrow_functions_and_polymorphic_this.ts'
+  '03_arrow_functions_and_polymorphic_this.ts',
+  '04_access_modifiers.ts'
 ];
 
 const $tsCode = $('#ts_code');
