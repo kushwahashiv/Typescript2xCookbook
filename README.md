@@ -1,5 +1,5 @@
-# TypeScript 2.x Cookbook
-This repository contains examples for the book "TypeScript 2.x
+# TypeScript 3.x Cookbook
+This repository contains examples for the book "TypeScript 3.x
 Cookbook"
 and written by [Shiv Shankar Kushwaha](https://www.linkedin.com/in/kushwahashiv/).
 
@@ -166,11 +166,13 @@ Closures
 
 # About the author
 
-<b>Shiv Shankar Kushwaha</b> is a software professional with more than 14 years of experience. He currently works in the capacity of an architect and a mentor in a startup, Wizni, Inc. in SaaS and MBaaS domain.
+![Shiv Kushwaha](https://pbs.twimg.com/profile_images/1095154605/Shiv3_400x400.jpg){: .center-image }
+
+<b>Shiv Shankar Kushwaha</b> is a software professional with more than 14+ years of experience. He currently works in a leading AI Lab in Mountain View, California.
 
 He earned a Master of Science degree in Computer Science from G.B. Pant University of Agriculture & Technology, Pant Nagar, India in year 2003.
 
-He started his carrier as a trainee and then as a researcher at DRDO. He also worked for various other companies i.e. Johnson Controls Inc., SAXO Bank, Emerson Electric Co. and Patni Computer Systems Pvt. Ltd.
+He started his carrier as a trainee and then as a researcher at DRDO. He also worked for various other companies i.e. Vivendi Inc. (Universal Music Group), Wizni Inc., Johnson Controls Inc., SAXO Bank, Emerson Electric Co. and Patni Computer Systems Pvt. Ltd.
 
 Before getting into web and mobile development he spent more than 12 years of his carrier in system programming writing code in C++ in diversified domains such as image processing, education, BFSI and Industrial automation etc.
 
