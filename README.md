@@ -166,7 +166,7 @@ Closures
 
 # About the author
 
-![Shiv Kushwaha](https://pbs.twimg.com/profile_images/1095154605/Shiv3_400x400.jpg){: .center-image }
+![Shiv Kushwaha](https://pbs.twimg.com/profile_images/1095154605/Shiv3_400x400.jpg)
 
 <b>Shiv Shankar Kushwaha</b> is a software professional with more than 14+ years of experience. He currently works in a leading AI Lab in Mountain View, California.
 
