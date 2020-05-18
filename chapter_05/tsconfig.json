@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "baseUrl": "./src",
+    "lib": [
+      "dom",
+      "es6"
+    ],
+    "types": [
+      "bluebird",
+      "jquery"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
